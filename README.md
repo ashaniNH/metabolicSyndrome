@@ -97,7 +97,7 @@ Evaluation metrics:
 ---
 
 ## 🛠️ Technologies Used
-- R
+- Python
 - tidyverse
 - caret
 - FactoMineR (FAMD)
